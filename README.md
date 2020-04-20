@@ -11,3 +11,9 @@
   git status  
   git commit -m 'name'  
   git push -u origin master  
+readme添加图片：  
+  输入images/创建文件夹以及文件
+  点击Upload files导入图片
+  复制图片路径  
+  在相应文件夹下生成README.md  
+  在README中输入![image](图片路径)
