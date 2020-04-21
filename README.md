@@ -20,5 +20,5 @@
 ### 错误使用https：
 >>>git remote -v  
 >>>git remote rm origin  
->>>git remote add oring + ssh  
+>>>git remote add origin + ssh  
 >>>git push origin master
