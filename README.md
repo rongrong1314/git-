@@ -21,4 +21,6 @@
 >>>git remote -v  
 >>>git remote rm origin  
 >>>git remote add origin + ssh  
->>>git push origin master
+>>>git push origin master  
+### git 错误导致文件删除  
+>>>git rebase --abort  
