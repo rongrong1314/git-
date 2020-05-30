@@ -3,6 +3,7 @@
 >>>git add .  
 >>>git commit -m 'name'  
 >>>git remote add origin + net  
+>>>git stash 如果同步出错先执行该语句   
 >>>git pull --rebase origin master  同步  
 >>>git push -u origin master  
 ### 更新提交：
